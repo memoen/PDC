@@ -1,8 +1,0 @@
-﻿  ConsoleApplication1.cpp
-  Generating code
-C:\Users\ThinkPad\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(224): warning C4799: function 'main' has no EMMS instruction
-  2 of 23 functions ( 8.7%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    3 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  ConsoleApplication1.vcxproj -> C:\Users\ThinkPad\source\repos\ConsoleApplication1\Release\ConsoleApplication1.exe
