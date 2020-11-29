@@ -1,5 +1,5 @@
 ﻿/*
- * This file is part of the PDC_Labs distribution (https://github.com/xxxx or http://xxx.github.io).
+ * This file is part of the PDC_Labs distribution (https://github.com/triod315/PDC).
  * Copyright (c) 2020 Oleksandr Hryshchuk.
  *
  * This program is free software: you can redistribute it and/or modify
