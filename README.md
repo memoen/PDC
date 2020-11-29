@@ -1,4 +1,4 @@
-# Paralle and distrebuted calculation labworks
+# Parallel and distributed calculation labworks
 ## Lab1
 Parallel sorting of arrays using ASM MMX instruction inside C++ code
 
